@@ -1,7 +1,7 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ashishacharjee&theme=aurora&variant=living-identity&label=ASHISH%20CHANDRA%20ACHARJEE&v=wow-living-identity-1&mode=light" />
+
     <img src="https://www.gitskins.com/api/section/hero?username=ashishacharjee&theme=aurora&variant=living-identity&label=ASHISH%20CHANDRA%20ACHARJEE&v=wow-living-identity-1&mode=dark" width="100%" alt="Ashish Chandra Acharjee GitHub profile banner" />
   </picture>
 
