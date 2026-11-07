@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Issue 07: THE WATCHTOWER. Live intel on the work, the commits and the streak.">
+  <defs>
+    <linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-340" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#f8fafc"/>
+      <animate attributeName="x1" values="-340;900" dur="4.5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1240" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></linearGradient>
+    <filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <text x="450.0" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="96" font-weight="900" fill="#22d3ee" opacity="0.06">07</text>
+  <text x="450.0" y="30" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="13" letter-spacing="8" fill="#818cf8">[ ISSUE #07
+    <animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/> ]</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="#22d3ee" opacity="0.5" filter="url(#gl)">THE WATCHTOWER</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="url(#sh)">THE WATCHTOWER</text>
+  <text x="450.0" y="106" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-style="italic" fill="#94a3b8">Live intel on the work, the commits and the streak.</text>
+  <g transform="translate(70 58)"><circle r="18" fill="none" stroke="#22d3ee" stroke-opacity="0.6"/><circle r="9" fill="none" stroke="#22d3ee" stroke-opacity="0.6"/><g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="2.4s" repeatCount="indefinite"/><path d="M0,0 L18,0 A18,18 0 0 0 14,-11 Z" fill="#22d3ee" opacity="0.7"/></g></g>
+  <g transform="translate(830 58)"><circle r="18" fill="none" stroke="#818cf8" stroke-opacity="0.6"/><circle r="9" fill="none" stroke="#818cf8" stroke-opacity="0.6"/><g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="2.4s" repeatCount="indefinite"/><path d="M0,0 L18,0 A18,18 0 0 0 14,-11 Z" fill="#818cf8" opacity="0.7"/></g></g>
+  <rect x="40" y="124" width="820" height="2" rx="1" fill="url(#ln)" opacity="0.5"/>
+  <rect x="40" y="123" width="120" height="4" rx="2" fill="#22d3ee" filter="url(#gl)"><animate attributeName="x" values="40;740;40" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect>
+</svg>

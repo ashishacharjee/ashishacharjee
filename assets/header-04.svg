@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Issue 04: BOSS BATTLES. Two arcs. Two very different challenges. One squad.">
+  <defs>
+    <linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-340" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="0.5" stop-color="#fb923c"/><stop offset="1" stop-color="#f8fafc"/>
+      <animate attributeName="x1" values="-340;900" dur="4.5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1240" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#fb923c" stop-opacity="0"/><stop offset="0.5" stop-color="#fb923c"/><stop offset="1" stop-color="#ef4444" stop-opacity="0"/></linearGradient>
+    <filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <text x="450.0" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="96" font-weight="900" fill="#fb923c" opacity="0.06">04</text>
+  <text x="450.0" y="30" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="13" letter-spacing="8" fill="#ef4444">[ ISSUE #04
+    <animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/> ]</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="#fb923c" opacity="0.5" filter="url(#gl)">BOSS BATTLES</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="url(#sh)">BOSS BATTLES</text>
+  <text x="450.0" y="106" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-style="italic" fill="#94a3b8">Two arcs. Two very different challenges. One squad.</text>
+  <g transform="translate(70 58)"><g><path d="M5,-22 L-10,2 H-1 L-6,22 L11,-5 H1 Z" fill="#fb923c"><animate attributeName="opacity" values="1;0.35;1;1;0.6;1" keyTimes="0;0.1;0.2;0.6;0.7;1" dur="2.4s" repeatCount="indefinite"/></path></g></g>
+  <g transform="translate(830 58)"><g><path d="M5,-22 L-10,2 H-1 L-6,22 L11,-5 H1 Z" fill="#ef4444"><animate attributeName="opacity" values="1;0.35;1;1;0.6;1" keyTimes="0;0.1;0.2;0.6;0.7;1" dur="2.4s" repeatCount="indefinite"/></path></g></g>
+  <rect x="40" y="124" width="820" height="2" rx="1" fill="url(#ln)" opacity="0.5"/>
+  <rect x="40" y="123" width="120" height="4" rx="2" fill="#fb923c" filter="url(#gl)"><animate attributeName="x" values="40;740;40" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect>
+</svg>

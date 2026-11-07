@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Issue 02: THE UTILITY BELT. A good gadget for every problem. Always adding new ones.">
+  <defs>
+    <linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-340" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="0.5" stop-color="#fde047"/><stop offset="1" stop-color="#f8fafc"/>
+      <animate attributeName="x1" values="-340;900" dur="4.5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1240" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#fde047" stop-opacity="0"/><stop offset="0.5" stop-color="#fde047"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></linearGradient>
+    <filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <text x="450.0" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="96" font-weight="900" fill="#fde047" opacity="0.06">02</text>
+  <text x="450.0" y="30" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="13" letter-spacing="8" fill="#fbbf24">[ ISSUE #02
+    <animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/> ]</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="#fde047" opacity="0.5" filter="url(#gl)">THE UTILITY BELT</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="url(#sh)">THE UTILITY BELT</text>
+  <text x="450.0" y="106" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-style="italic" fill="#94a3b8">A good gadget for every problem. Always adding new ones.</text>
+  <g transform="translate(70 58)"><g><animateTransform attributeName="transform" type="scale" values="1 1;1 0.55;1 1" dur="0.9s" repeatCount="indefinite"/><path d="M0,-8 L4,-14 L6,-8 Q12,-12 22,-10 Q18,-4 20,4 Q14,0 10,6 Q6,2 0,12 Q-6,2 -10,6 Q-14,0 -20,4 Q-18,-4 -22,-10 Q-12,-12 -6,-8 L-4,-14 Z" transform="scale(1.5)" fill="#fde047"/></g></g>
+  <g transform="translate(830 58)"><g><animateTransform attributeName="transform" type="scale" values="1 1;1 0.55;1 1" dur="0.9s" repeatCount="indefinite"/><path d="M0,-8 L4,-14 L6,-8 Q12,-12 22,-10 Q18,-4 20,4 Q14,0 10,6 Q6,2 0,12 Q-6,2 -10,6 Q-14,0 -20,4 Q-18,-4 -22,-10 Q-12,-12 -6,-8 L-4,-14 Z" transform="scale(1.5)" fill="#fbbf24"/></g></g>
+  <rect x="40" y="124" width="820" height="2" rx="1" fill="url(#ln)" opacity="0.5"/>
+  <rect x="40" y="123" width="120" height="4" rx="2" fill="#fde047" filter="url(#gl)"><animate attributeName="x" values="40;740;40" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect>
+</svg>

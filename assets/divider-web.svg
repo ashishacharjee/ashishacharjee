@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="A spider drops and climbs on a web thread between two web corners">
+  <path d="M0,0 L70.0,0.0 M0,0 L63.4,29.6 M0,0 L45.0,53.6 M0,0 L18.1,67.6 M0,0 L0.0,70.0 M22.0,0.0 Q18.5,4.1 19.9,9.3 M19.9,9.3 Q15.0,11.5 14.1,16.9 M14.1,16.9 Q8.7,16.8 5.7,21.3 M5.7,21.3 Q2.5,18.8 0.0,22.0 M44.0,0.0 Q36.9,8.2 39.9,18.6 M39.9,18.6 Q30.0,23.0 28.3,33.7 M28.3,33.7 Q17.5,33.6 11.4,42.5 M11.4,42.5 Q4.9,37.5 0.0,44.0 M66.0,0.0 Q55.4,12.3 59.8,27.9 M59.8,27.9 Q45.0,34.6 42.4,50.6 M42.4,50.6 Q26.2,50.3 17.1,63.8 M17.1,63.8 Q7.4,56.3 0.0,66.0" fill="none" stroke="#cbd5e1" stroke-opacity="0.55" transform="translate(0 22)"/><path d="M0,0 L70.0,0.0 M0,0 L63.4,29.6 M0,0 L45.0,53.6 M0,0 L18.1,67.6 M0,0 L0.0,70.0 M22.0,0.0 Q18.5,4.1 19.9,9.3 M19.9,9.3 Q15.0,11.5 14.1,16.9 M14.1,16.9 Q8.7,16.8 5.7,21.3 M5.7,21.3 Q2.5,18.8 0.0,22.0 M44.0,0.0 Q36.9,8.2 39.9,18.6 M39.9,18.6 Q30.0,23.0 28.3,33.7 M28.3,33.7 Q17.5,33.6 11.4,42.5 M11.4,42.5 Q4.9,37.5 0.0,44.0 M66.0,0.0 Q55.4,12.3 59.8,27.9 M59.8,27.9 Q45.0,34.6 42.4,50.6 M42.4,50.6 Q26.2,50.3 17.1,63.8 M17.1,63.8 Q7.4,56.3 0.0,66.0" fill="none" stroke="#cbd5e1" stroke-opacity="0.55" transform="translate(900 22) scale(-1 1)"/>
+  <path d="M60,22 Q450.0,48 840,22" fill="none" stroke="#cbd5e1" stroke-opacity="0.7" stroke-width="1.4"/>
+  <line x1="450.0" y1="35" x2="450.0" y2="35" stroke="#e5e7eb" stroke-opacity="0.8" stroke-width="1.2">
+    <animate attributeName="y2" values="35;84;35" keyTimes="0;0.55;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></line>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="450.0 35;450.0 84;450.0 35" keyTimes="0;0.55;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <g><animateTransform attributeName="transform" type="rotate" values="-6;6;-6" dur="2.2s" repeatCount="indefinite"/>
+      <g transform="translate(0 8)">
+        <g><path d="M0,0 Q-9,-4 -17,-13" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q-10,0 -20,-3" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q-10,3 -19,9" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q-8,6 -14,16" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q9,-4 17,-13" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q10,0 20,-3" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q10,3 19,9" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><path d="M0,0 Q8,6 14,16" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round"/><animateTransform attributeName="transform" type="scale" additive="sum" values="1 1;1.05 0.95;1 1" dur="0.5s" repeatCount="indefinite"/></g>
+        <ellipse cx="0" cy="3" rx="7.5" ry="9" fill="#dc2626"/><circle cx="0" cy="-8" r="5" fill="#1e3a8a"/>
+        <path d="M0,-1 l-3,6 h6 z" fill="#0b1020" opacity="0.8"/>
+        <circle cx="-2" cy="-9" r="1.4" fill="#fff"/><circle cx="2" cy="-9" r="1.4" fill="#fff"/>
+      </g></g>
+  </g>
+</svg>

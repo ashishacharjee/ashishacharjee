@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-label="Case file 5: SigilChain. Every leak leaves a fingerprint. Stack: Python, Document Security, Watermarking, Post-Quantum Crypto.">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c4b5fd" stop-opacity="0"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0.6"/></linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6" stop-opacity="0.6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22,0 H0 V22" fill="none" stroke="#f472b6" stroke-opacity="0.07"/>
+      <animateTransform attributeName="patternTransform" type="translate" values="0 0;22 22" dur="5s" repeatCount="indefinite"/></pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#panel)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#grid)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="#f472b6" stroke-opacity="0.3"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="url(#edge)" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="130 870" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="5.5s" repeatCount="indefinite"/></rect>
+  <text x="24" y="38" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="3" fill="#f472b6">CASE FILE 005</text>
+  <circle cx="284" cy="34" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="416" y="38" text-anchor="end" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="1.5" fill="#86efac">HACKATHON BUILD</text>
+  <text x="24" y="78" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" fill="#f8fafc">SigilChain</text>
+  <text x="24" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" font-style="italic" fill="#94a3b8">Every leak leaves a fingerprint</text>
+  <line x1="24" y1="112" x2="416" y2="112" stroke="#f472b6" stroke-opacity="0.35"/>
+  <text x="24" y="136" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#f472b6">▸ </tspan>Recipient-specific watermarking<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/></text><text x="24" y="158" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#f472b6">▸ </tspan>Trace a leak to its source copy<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.45s" fill="freeze"/></text><text x="24" y="180" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#f472b6">▸ </tspan>Authenticity + auditability crypto<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.7s" fill="freeze"/></text>
+  <g transform="translate(372 154) scale(0.9)">
+    <rect x="-24" y="-38" width="48" height="64" rx="5" fill="#0f172a" stroke="#f472b6" stroke-width="1.6"/>
+    <rect x="-16" y="-28" width="32" height="3" rx="1.5" fill="#475569"/><rect x="-16" y="-19" width="26" height="3" rx="1.5" fill="#475569"/><rect x="-16" y="-10" width="32" height="3" rx="1.5" fill="#475569"/><rect x="-16" y="-1" width="20" height="3" rx="1.5" fill="#475569"/><rect x="-16" y="8" width="28" height="3" rx="1.5" fill="#475569"/><rect x="-16" y="17" width="24" height="3" rx="1.5" fill="#475569"/>
+    <clipPath id="dc"><rect x="-24" y="-38" width="48" height="64" rx="5"/></clipPath>
+    <g clip-path="url(#dc)"><rect x="-26" y="-44" width="52" height="14" fill="url(#scan)"><animateTransform attributeName="transform" type="translate" values="0 0;0 74;0 0" dur="2.6s" repeatCount="indefinite"/></rect></g>
+    <g fill="none" stroke="#c4b5fd" stroke-width="1.6" stroke-linecap="round" transform="translate(14 16)">
+      <path d="M-7,0 a7,7 0 0 1 14,0"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></path>
+      <path d="M-11,2 a11,11 0 0 1 22,0"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></path>
+      <path d="M-15,4 a15,15 0 0 1 30,0"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></path></g>
+    <g transform="translate(0 40)"><rect x="-44" y="-5" width="12" height="10" rx="2" fill="#f472b6" opacity="0.7"/><rect x="-6" y="-5" width="12" height="10" rx="2" fill="#f472b6" opacity="0.7"/><rect x="32" y="-5" width="12" height="10" rx="2" fill="#f472b6" opacity="0.7"/>
+      <path d="M-32,0 H-6 M6,0 H32" stroke="#c4b5fd" stroke-dasharray="3 3"/>
+      <rect x="-44" y="-5" width="12" height="10" rx="2" fill="#c4b5fd"><animate attributeName="x" values="-44;-6;32;-44" keyTimes="0;0.33;0.66;1" calcMode="discrete" dur="2.4s" repeatCount="indefinite"/></rect></g></g>
+  <g><rect x="24" y="196" width="58" height="21" rx="10.5" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.55"/><text x="53" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Python</text></g><g><rect x="90.2" y="196" width="132" height="21" rx="10.5" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.55"/><text x="156" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Document Security</text></g><g><rect x="230.10000000000002" y="196" width="98" height="21" rx="10.5" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.55"/><text x="279" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Watermarking</text></g><g><rect x="24" y="224" width="145" height="21" rx="10.5" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.55"/><text x="97" y="238.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Post-Quantum Crypto</text></g>
+  <line x1="24" y1="266" x2="416" y2="266" stroke="#f472b6" stroke-opacity="0.25"/>
+  <g font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2" fill="#c4b5fd"><text x="24" y="286">▶ SEE HACKINVERSE 1.0</text>
+    <text x="414" y="286" text-anchor="end">→<animate attributeName="x" values="414;422;414" dur="1.2s" repeatCount="indefinite"/></text></g>
+</svg>

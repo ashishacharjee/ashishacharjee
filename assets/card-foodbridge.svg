@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-label="Case file 2: FoodBridge+. No meal left behind. Stack: React, Vite, Node.js, Express, Snowflake, Cloudinary.">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#fde68a"/></linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde68a" stop-opacity="0"/><stop offset="1" stop-color="#fde68a" stop-opacity="0.6"/></linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity="0.6"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22,0 H0 V22" fill="none" stroke="#34d399" stroke-opacity="0.07"/>
+      <animateTransform attributeName="patternTransform" type="translate" values="0 0;22 22" dur="5s" repeatCount="indefinite"/></pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#panel)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#grid)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="#34d399" stroke-opacity="0.3"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="url(#edge)" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="130 870" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="5.5s" repeatCount="indefinite"/></rect>
+  <text x="24" y="38" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="3" fill="#34d399">CASE FILE 002</text>
+  <circle cx="341" cy="34" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="416" y="38" text-anchor="end" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="1.5" fill="#86efac">DEPLOYED</text>
+  <text x="24" y="78" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" fill="#f8fafc">FoodBridge+</text>
+  <text x="24" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" font-style="italic" fill="#94a3b8">No meal left behind</text>
+  <line x1="24" y1="112" x2="416" y2="112" stroke="#34d399" stroke-opacity="0.35"/>
+  <text x="24" y="136" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#34d399">▸ </tspan>Kitchens list surplus food batches<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/></text><text x="24" y="158" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#34d399">▸ </tspan>NGOs claim them in real time<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.45s" fill="freeze"/></text><text x="24" y="180" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#34d399">▸ </tspan>Impact: meals + emissions saved<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.7s" fill="freeze"/></text>
+  <g transform="translate(372 154) scale(0.9)">
+    <path d="M-38,14 Q0,-44 38,14" fill="none" stroke="#34d399" stroke-opacity="0.5" stroke-dasharray="3 5"/>
+    <path d="M-52,22 H52" stroke="#34d399" stroke-opacity="0.35"/>
+    <rect x="-48" y="10" width="20" height="14" rx="3" fill="#34d399" opacity="0.85"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/></rect>
+    <circle cx="38" cy="17" r="10" fill="#fde68a" opacity="0.9"><animate attributeName="r" values="8;11;8" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <text x="-38" y="38" font-size="8" fill="#94a3b8" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace">KITCHEN</text>
+    <text x="38" y="38" font-size="8" fill="#94a3b8" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace">NGO</text><circle r="3.4" fill="#fde68a"><animateMotion dur="2.6s" begin="0s" repeatCount="indefinite" path="M-38,14 Q0,-44 38,14"/></circle><circle r="3.4" fill="#fde68a"><animateMotion dur="2.6s" begin="0.87s" repeatCount="indefinite" path="M-38,14 Q0,-44 38,14"/></circle><circle r="3.4" fill="#fde68a"><animateMotion dur="2.6s" begin="1.73s" repeatCount="indefinite" path="M-38,14 Q0,-44 38,14"/></circle></g>
+  <g><rect x="24" y="196" width="52" height="21" rx="10.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="50" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">React</text></g><g><rect x="83.5" y="196" width="45" height="21" rx="10.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="106" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Vite</text></g><g><rect x="136.3" y="196" width="65" height="21" rx="10.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="169" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Node.js</text></g><g><rect x="209.20000000000002" y="196" width="65" height="21" rx="10.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="242" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Express</text></g><g><rect x="282.1" y="196" width="78" height="21" rx="10.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="321" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Snowflake</text></g><g><rect x="24" y="224" width="85" height="21" rx="10.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="66" y="238.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Cloudinary</text></g>
+  <line x1="24" y1="266" x2="416" y2="266" stroke="#34d399" stroke-opacity="0.25"/>
+  <g font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2" fill="#fde68a"><text x="24" y="286">▶ OPEN LIVE DEMO</text>
+    <text x="414" y="286" text-anchor="end">→<animate attributeName="x" values="414;422;414" dur="1.2s" repeatCount="indefinite"/></text></g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Issue 08: TRAINING GROUNDS. Total concentration. Every day.">
+  <defs>
+    <linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-340" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="0.5" stop-color="#2dd4bf"/><stop offset="1" stop-color="#f8fafc"/>
+      <animate attributeName="x1" values="-340;900" dur="4.5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1240" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/><stop offset="0.5" stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient>
+    <filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <text x="450.0" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="96" font-weight="900" fill="#2dd4bf" opacity="0.06">08</text>
+  <text x="450.0" y="30" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="13" letter-spacing="8" fill="#38bdf8">[ ISSUE #08
+    <animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/> ]</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="#2dd4bf" opacity="0.5" filter="url(#gl)">TRAINING GROUNDS</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="url(#sh)">TRAINING GROUNDS</text>
+  <text x="450.0" y="106" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-style="italic" fill="#94a3b8">Total concentration. Every day.</text>
+  <g transform="translate(70 58)"><path d="M-20,0 q5,-10 10,0 t10,0 t10,0 t10,0" fill="none" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 6"><animate attributeName="stroke-dashoffset" values="0;-40" dur="1.4s" repeatCount="indefinite"/></path></g>
+  <g transform="translate(830 58)"><path d="M-20,0 q5,-10 10,0 t10,0 t10,0 t10,0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 6"><animate attributeName="stroke-dashoffset" values="0;-40" dur="1.4s" repeatCount="indefinite"/></path></g>
+  <rect x="40" y="124" width="820" height="2" rx="1" fill="url(#ln)" opacity="0.5"/>
+  <rect x="40" y="123" width="120" height="4" rx="2" fill="#2dd4bf" filter="url(#gl)"><animate attributeName="x" values="40;740;40" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect>
+</svg>

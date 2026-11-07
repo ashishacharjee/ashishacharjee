@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Issue 01: ORIGIN STORY. Every hero has one. Mine started with a bite from the curiosity bug.">
+  <defs>
+    <linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-340" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="0.5" stop-color="#f87171"/><stop offset="1" stop-color="#f8fafc"/>
+      <animate attributeName="x1" values="-340;900" dur="4.5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1240" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#f87171" stop-opacity="0"/><stop offset="0.5" stop-color="#f87171"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></linearGradient>
+    <filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <text x="450.0" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="96" font-weight="900" fill="#f87171" opacity="0.06">01</text>
+  <text x="450.0" y="30" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="13" letter-spacing="8" fill="#60a5fa">[ ISSUE #01
+    <animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/> ]</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="#f87171" opacity="0.5" filter="url(#gl)">ORIGIN STORY</text>
+  <text x="450.0" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="5" fill="url(#sh)">ORIGIN STORY</text>
+  <text x="450.0" y="106" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-style="italic" fill="#94a3b8">Every hero has one. Mine started with a bite from the curiosity bug.</text>
+  <g transform="translate(70 58)"><g fill="none" stroke="#f87171" stroke-width="1.3"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="24s" repeatCount="indefinite"/><path d="M0,0 L26.0,0.0 M0,0 L18.4,18.4 M0,0 L0.0,26.0 M0,0 L-18.4,18.4 M0,0 L-26.0,0.0 M0,0 L-18.4,-18.4 M0,0 L-0.0,-26.0 M0,0 L18.4,-18.4 M9,0 A9,9 0 1 1 -9,0 A9,9 0 1 1 9,0 M18,0 A18,18 0 1 1 -18,0 A18,18 0 1 1 18,0 M26,0 A26,26 0 1 1 -26,0 A26,26 0 1 1 26,0"/></g></g>
+  <g transform="translate(830 58)"><g fill="none" stroke="#60a5fa" stroke-width="1.3"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="24s" repeatCount="indefinite"/><path d="M0,0 L26.0,0.0 M0,0 L18.4,18.4 M0,0 L0.0,26.0 M0,0 L-18.4,18.4 M0,0 L-26.0,0.0 M0,0 L-18.4,-18.4 M0,0 L-0.0,-26.0 M0,0 L18.4,-18.4 M9,0 A9,9 0 1 1 -9,0 A9,9 0 1 1 9,0 M18,0 A18,18 0 1 1 -18,0 A18,18 0 1 1 18,0 M26,0 A26,26 0 1 1 -26,0 A26,26 0 1 1 26,0"/></g></g>
+  <rect x="40" y="124" width="820" height="2" rx="1" fill="url(#ln)" opacity="0.5"/>
+  <rect x="40" y="123" width="120" height="4" rx="2" fill="#f87171" filter="url(#gl)"><animate attributeName="x" values="40;740;40" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect>
+</svg>

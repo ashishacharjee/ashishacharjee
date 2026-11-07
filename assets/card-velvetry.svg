@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-label="Case file 6: Velvetry E-Commerce. Browse. Cart. Checkout. Conquer.. Stack: Next.js 14, React, TypeScript, CSS.">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f0abfc"/></linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0abfc" stop-opacity="0"/><stop offset="1" stop-color="#f0abfc" stop-opacity="0.6"/></linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.6"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22,0 H0 V22" fill="none" stroke="#a78bfa" stroke-opacity="0.07"/>
+      <animateTransform attributeName="patternTransform" type="translate" values="0 0;22 22" dur="5s" repeatCount="indefinite"/></pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#panel)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#grid)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="#a78bfa" stroke-opacity="0.3"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="url(#edge)" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="130 870" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="5.5s" repeatCount="indefinite"/></rect>
+  <text x="24" y="38" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="3" fill="#a78bfa">CASE FILE 006</text>
+  <circle cx="317" cy="34" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="416" y="38" text-anchor="end" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="1.5" fill="#86efac">OPEN SOURCE</text>
+  <text x="24" y="78" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" fill="#f8fafc">Velvetry E-Commerce</text>
+  <text x="24" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" font-style="italic" fill="#94a3b8">Browse. Cart. Checkout. Conquer.</text>
+  <line x1="24" y1="112" x2="416" y2="112" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="24" y="136" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#a78bfa">▸ </tspan>Catalogue + product details<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/></text><text x="24" y="158" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#a78bfa">▸ </tspan>Cart, checkout, order tracking<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.45s" fill="freeze"/></text><text x="24" y="180" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#a78bfa">▸ </tspan>Admin dashboard<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.7s" fill="freeze"/></text>
+  <g transform="translate(372 154) scale(0.9)">
+    <rect x="-16" y="-40" width="11" height="11" rx="3" fill="#f0abfc" opacity="0"><animate attributeName="y" values="-40;-4;-4" keyTimes="0;0.35;1" dur="2.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="2.8s" begin="0s" repeatCount="indefinite"/></rect><rect x="-2" y="-40" width="11" height="11" rx="3" fill="#a78bfa" opacity="0"><animate attributeName="y" values="-40;-4;-4" keyTimes="0;0.35;1" dur="2.8s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></rect><rect x="11" y="-40" width="11" height="11" rx="3" fill="#fde68a" opacity="0"><animate attributeName="y" values="-40;-4;-4" keyTimes="0;0.35;1" dur="2.8s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></rect>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;3 0;0 0;-3 0;0 0" dur="2.8s" repeatCount="indefinite"/>
+      <path d="M-40,-12 H-30 L-22,16 H24 L32,-4 H-27" fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-14" cy="26" r="4.5" fill="#f0abfc"/><circle cx="18" cy="26" r="4.5" fill="#f0abfc"/></g>
+    <path d="M30,-26 l5,6 l11,-12" fill="none" stroke="#4ade80" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+      <animate attributeName="stroke-dashoffset" values="100;100;0;0;100" keyTimes="0;0.55;0.7;0.95;1" dur="2.8s" repeatCount="indefinite"/></path></g>
+  <g><rect x="24" y="196" width="85" height="21" rx="10.5" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.55"/><text x="66" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Next.js 14</text></g><g><rect x="117.0" y="196" width="52" height="21" rx="10.5" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.55"/><text x="143" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">React</text></g><g><rect x="176.5" y="196" width="85" height="21" rx="10.5" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.55"/><text x="219" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">TypeScript</text></g><g><rect x="269.5" y="196" width="38" height="21" rx="10.5" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.55"/><text x="289" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">CSS</text></g>
+  <line x1="24" y1="266" x2="416" y2="266" stroke="#a78bfa" stroke-opacity="0.25"/>
+  <g font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2" fill="#f0abfc"><text x="24" y="286">▶ VIEW SOURCE ON GITHUB</text>
+    <text x="414" y="286" text-anchor="end">→<animate attributeName="x" values="414;422;414" dur="1.2s" repeatCount="indefinite"/></text></g>
+</svg>

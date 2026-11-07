@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-label="Case file 1: RakshaLink. A Bat-Signal that knows who to call. Stack: Emergency Workflows, Crash Detection, Offline Support, Responder Console.">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d6d"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbbf24" stop-opacity="0"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0.6"/></linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d6d" stop-opacity="0.6"/><stop offset="1" stop-color="#ff4d6d" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22,0 H0 V22" fill="none" stroke="#ff4d6d" stroke-opacity="0.07"/>
+      <animateTransform attributeName="patternTransform" type="translate" values="0 0;22 22" dur="5s" repeatCount="indefinite"/></pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#panel)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="url(#grid)"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="#ff4d6d" stroke-opacity="0.3"/>
+  <rect x="3" y="3" width="434" height="294" rx="16" fill="none" stroke="url(#edge)" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="130 870" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="5.5s" repeatCount="indefinite"/></rect>
+  <text x="24" y="38" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="3" fill="#ff4d6d">CASE FILE 001</text>
+  <circle cx="341" cy="34" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="416" y="38" text-anchor="end" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" letter-spacing="1.5" fill="#86efac">DEPLOYED</text>
+  <text x="24" y="78" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" fill="#f8fafc">RakshaLink</text>
+  <text x="24" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" font-style="italic" fill="#94a3b8">A Bat-Signal that knows who to call</text>
+  <line x1="24" y1="112" x2="416" y2="112" stroke="#ff4d6d" stroke-opacity="0.35"/>
+  <text x="24" y="136" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#ff4d6d">▸ </tspan>Crash-triggered SOS alerts<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/></text><text x="24" y="158" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#ff4d6d">▸ </tspan>Responder matching + console<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.45s" fill="freeze"/></text><text x="24" y="180" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12.5" fill="#cbd5e1" opacity="0"><tspan fill="#ff4d6d">▸ </tspan>Escalation + offline fallback<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.7s" fill="freeze"/></text>
+  <g transform="translate(372 154) scale(0.9)">
+    <g fill="none" stroke="#ff4d6d" stroke-opacity="0.45"><circle r="14"/><circle r="28"/><circle r="42"/><path d="M-46,0H46M0,-46V46" stroke-opacity="0.25"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="3s" repeatCount="indefinite"/>
+      <path d="M0,0 L42,0 A42,42 0 0 0 34,-24 Z" fill="url(#sweep)"/><line x1="0" y1="0" x2="42" y2="0" stroke="#ff4d6d" stroke-width="1.6"/></g>
+    <circle cx="18" cy="-20" r="2.6" fill="#fbbf24"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="-24" cy="12" r="2.6" fill="#fbbf24"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="1.1s" repeatCount="indefinite"/></circle><circle cx="30" cy="18" r="2.6" fill="#fbbf24"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="2.0s" repeatCount="indefinite"/></circle><circle cx="-10" cy="-32" r="2.6" fill="#fbbf24"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle r="4" fill="#ef4444"/><circle r="4" fill="none" stroke="#ef4444" stroke-width="1.6"><animate attributeName="r" values="4;40" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/></circle></g>
+  <g><rect x="24" y="196" width="145" height="21" rx="10.5" fill="#ff4d6d" fill-opacity="0.12" stroke="#ff4d6d" stroke-opacity="0.55"/><text x="97" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Emergency Workflows</text></g><g><rect x="177.3" y="196" width="118" height="21" rx="10.5" fill="#ff4d6d" fill-opacity="0.12" stroke="#ff4d6d" stroke-opacity="0.55"/><text x="237" y="210.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Crash Detection</text></g><g><rect x="24" y="224" width="118" height="21" rx="10.5" fill="#ff4d6d" fill-opacity="0.12" stroke="#ff4d6d" stroke-opacity="0.55"/><text x="83" y="238.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Offline Support</text></g><g><rect x="150.5" y="224" width="132" height="21" rx="10.5" fill="#ff4d6d" fill-opacity="0.12" stroke="#ff4d6d" stroke-opacity="0.55"/><text x="216" y="238.5" text-anchor="middle" font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="11" fill="#e2e8f0">Responder Console</text></g>
+  <line x1="24" y1="266" x2="416" y2="266" stroke="#ff4d6d" stroke-opacity="0.25"/>
+  <g font-family="'Courier New','DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2" fill="#fbbf24"><text x="24" y="286">▶ OPEN LIVE DEMO</text>
+    <text x="414" y="286" text-anchor="end">→<animate attributeName="x" values="414;422;414" dur="1.2s" repeatCount="indefinite"/></text></g>
+</svg>
